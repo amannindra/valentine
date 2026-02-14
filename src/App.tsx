@@ -61,7 +61,7 @@ function App() {
         {!answered ? (
           <div className="valentine-question">
             <div className="main-heart">❤️</div>
-            <h1>Will you be my honorary Valentine?</h1>
+            <h1>Will you be my honorary Valentine Gunjan?</h1>
             <p className="subtitle">Just for today... or maybe forever? 💕</p>
             <div className="buttons-container">
               <button 
